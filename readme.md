@@ -1,3 +1,5 @@
+Please visit [https://github.com/dongkaipo/laravel-restful-api](https://github.com/dongkaipo/laravel-restful-api) to view the latest version.
+
 ## Laravel
 ### Install 
 ```
